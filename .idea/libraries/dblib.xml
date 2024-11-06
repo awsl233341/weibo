@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dblib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/dblib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/dblib" recursive="false" />
+  </library>
+</component>
